@@ -1,4 +1,6 @@
+<p align="center">
 <img alt="GoStack" src="https://user-images.githubusercontent.com/12499627/79766057-d92a8280-82fd-11ea-9fee-76d85d0b7b32.png" />
+</p>
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
@@ -59,4 +61,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-By Wellton Quirino ➡ [Linkedin!](https://www.linkedin.com/in/welltonquirino95/)
+✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
